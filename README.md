@@ -14,6 +14,33 @@
 </p>
 </div>
 
+## My Background and Programming Experience Before This Program
+I have taken 8-week introduction to programming courses with Python, as well as additional 8-week Java I and Java II classes at the collegiate level. However, I still feel my knowledge and comfort with these languages and some programming concepts is lacking, hence what brings me to the OSSU curriculum. I am hoping by taking longer, more rigorous courses through other channels that I can get a better grasp on certain concepts and honestly, have more fun learning. 
+
+I also have obtained the CompTIA A+ certification and I used to hold the Security+ and other cybersecurity certifications before I let them lapse. I intend to sit for the CompTIA Network+ at some point in 2027.  
+
+## My Overall Program Progress
+
+- [ ] [Prerequisites](#prerequisites) -Currently in-progress 
+- [ ] [Intro CS](#intro-cs)
+- [ ] [Core CS](#core-cs)
+  - [ ] [Core programming](#core-programming)
+  - [ ] [Core math](#core-math)
+  - [ ] [CS Tools](#cs-tools)
+  - [ ] [Core systems](#core-systems) - Currently in-progress
+  - [ ] [Core theory](#core-theory)
+  - [ ] [Core security](#core-security)
+  - [ ] [Core applications](#core-applications)
+  - [ ] [Core ethics](#core-ethics)
+- [ ] [Advanced CS](#advanced-cs)
+  - [ ] [Advanced programming](#advanced-programming)
+  - [ ] [Advanced systems](#advanced-systems)
+  - [ ] [Advanced theory](#advanced-theory)
+  - [ ] [Advanced information security](#advanced-information-security)
+  - [ ] [Advanced math](#advanced-math)
+- [ ] [Final project](#final-project)
+
+
 # Contents
 
 - [Summary](#summary)
